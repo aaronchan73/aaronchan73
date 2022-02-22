@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello! 👋
+
+My name is Aaron, and I am currently a second year Computer Science major at UBC! 
+I am interested in web and mobile development, with technologies and languages such as React, Java, and JavaScript.
 
 <!--
 **aaronchan73/aaronchan73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

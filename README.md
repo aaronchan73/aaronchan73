@@ -5,4 +5,4 @@ I am interested in web and mobile development, with technologies and languages s
 
 - ⚙️ I’m currently working on Umami w/ UBC Launch Pad
 - 📖 I’m currently learning Data Structures and Algorithms & Computer Systems
-- 📫 How to reach me: chan.aaron73@gmail.com
+- 📫 How to reach me: [Email](mailto:chan.aaron73@gmail.com), [LinkedIn](https://www.linkedin.com/in/aaronkaicheechan/)

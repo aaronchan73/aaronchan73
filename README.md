@@ -1,7 +1,6 @@
 ### Hello! 👋
 
-My name is Aaron, and I am an incoming third year Computer Science major at UBC! 
-I am interested in Software Engineering and Full-Stack Development, with technologies and languages such as React, Java, and JavaScript.
+My name is Aaron Chan! I am an incoming third year Computer Science major at the University of British Columbia. I am interested in Software Engineering and Full-Stack Development, creating effective and appealing products using tools such as Java, JavaScript, and React.
 
 - 🔧 I’m currently LeetCoding!
 - 📖 I’m currently learning Machine Learning w/ Python

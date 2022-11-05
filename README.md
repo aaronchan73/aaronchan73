@@ -4,6 +4,6 @@ I am an incoming third year Computer Science major at the University of British 
 
 🔧 I’m currently a Firmware Engineer Intern @ Intel and a UTA for CPSC 121 - Models of Computation
 
-📖 I’m currently learning MySQL, Express.js, React Native, and Node.js
+📖 I’m currently learning Docker
 
 📫 How to reach me: [Email](mailto:chan.aaron73@gmail.com), [LinkedIn](https://www.linkedin.com/in/aaronkaicheechan/)

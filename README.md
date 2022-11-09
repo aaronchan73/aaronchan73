@@ -1,6 +1,6 @@
 ## Hello! My name is Aaron Chan! 👋
 
-I am an incoming third year Computer Science major at the University of British Columbia. I am interested in Software Engineering and Full-Stack Development, creating effective and appealing products using tools such as Java, JavaScript, and React.
+I am a third year Computer Science major at the University of British Columbia, interested in Software Engineering and Full-Stack Development.
 
 ### 🔧 Currently
 - Firmware Engineer Intern @ Intel

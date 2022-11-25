@@ -3,11 +3,11 @@
 I am a third year Computer Science major at the University of British Columbia, interested in Software Engineering and Full-Stack Development.
 
 ### 🔧 Currently
-- Firmware Engineer Intern @ Intel
-- UTA for CPSC 121 - Models of Computation
+- Software Engineer Intern @ Intel
 - Learning Docker and LeetCoding!
 
 ### 🚀 Previously
+- UTA for CPSC 121 - Models of Computation
 - Product Analyst Intern @ TAMVOES
 - Software Developer @ UBC Launch Pad
 

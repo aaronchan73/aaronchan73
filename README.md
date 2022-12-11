@@ -12,4 +12,4 @@ I am a third year Computer Science major at the University of British Columbia, 
 - Undergraduate Teaching Assistant @ UBC
 
 ### 📫 Contact
-Please feel free to reach out via [Email](mailto:chan.aaron73@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aaronkaicheechan/)!
+Please feel free to reach out via [Email](mailto:aaronkaichan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aaronkaicheechan/)!

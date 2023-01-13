@@ -4,7 +4,7 @@ I am a third year Computer Science major at the University of British Columbia, 
 
 ### 🔧 Currently
 - Software Engineer Intern @ Intel
-- Learning Docker and LeetCoding!
+- Learning Docker and Algorithms
 
 ### 🚀 Previously
 - Product Analyst Intern @ TAMVOES

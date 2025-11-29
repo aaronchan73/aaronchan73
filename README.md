@@ -1,5 +1,5 @@
 ## Hello, my name is Aaron Chan! 👋
 
-I am a Computer Science major at the University of British Columbia, interested in backend engineering, distributed systems, and infrastructure.
+I am a Computer Science graduate from the University of British Columbia, interested in backend engineering, distributed systems, and infrastructure.
 
 Please feel free to reach out via [Email](mailto:aaronkaichan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aaronkaicheechan/)!
